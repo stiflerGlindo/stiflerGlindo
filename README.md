@@ -1,5 +1,5 @@
 1 (https://github.com/hebertdev1/blob/master/Javascript.gif)
-2 ## Hello! I'm Stiward Orozco, web developer from Barranquilla economy lover 
+2 ## Hello! I'm Stiward Orozco, "Professional economist turned data analyst and AI developer, on a mission to uncover valuable insights hidden in complex datasets. Bringing a unique perspective to the world of tech, with a passion for leveraging cutting-edge tools and techniques to drive real-world impact. Let's connect and collaborate!"
 
 ### Dónde me puedes encontrar 
 Redes sociales.
