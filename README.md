@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Stiward Orozco  
+# 👋 ¡Hola! Soy Stiward Orozco Galindo 
 
 <img src="https://github.com/hebertdev1/blob/master/Javascript.gif" width="100%" />
 
@@ -26,10 +26,10 @@ Soy economista profesional convertido en **analista de datos y desarrollador de 
 
 ```bash
 📊 Data:
-- Python | Pandas | SQL | Excel Avanzado  
+- Python| SQL | Excel Avanzado | Workspace | Power BI | CRM
 
 🤖 IA:
-- OpenAI API | LLMs | Prompt Engineering  
+- OpenAI API | LLMs | Prompt Engineering | Antigravity | Claude Code
 
 🌐 Frontend:
 - HTML | CSS | JavaScript  
@@ -59,8 +59,8 @@ https://twitter.com/StiflerSnif
 📲 Contacto directo
 +57 301 650 1742 
 ⚡ Filosofía
+"Los datos no sirven si no accionan decisiones."
 
-"Los datos no sirven si no accionan decisiones." 
 📈 Actualmente
 🧩 Construyendo sistemas operativos autónomos (AI Ops)
 📊 Ayudando negocios a escalar con datos
