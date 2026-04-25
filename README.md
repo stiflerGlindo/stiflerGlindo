@@ -1,72 +1,69 @@
-# 👋 ¡Hola! Soy Stiward Orozco Galindo 
+# 🚀 Stiward Orozco Galindo 
+### **B2B Commercial Leader & AI Architect**
 
-<img src="https://github.com/hebertdev1/blob/master/Javascript.gif" width="100%" />
-
-### 🚀 Economista | Data Analyst | AI Builder  
-
-Soy economista profesional convertido en **analista de datos y desarrollador de soluciones con IA**, enfocado en transformar datos complejos en decisiones accionables que generen impacto real.
-
-💡 Me apasiona construir sistemas que:
-- Detectan oportunidades ocultas en los datos  
-- Automatizan decisiones operativas  
-- Mejoran el rendimiento de negocios en tiempo real  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stiflerGlindo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+</div>
 
 ---
 
-## 🧠 En qué estoy enfocado
+## ⚡ Overview
+Estratega por naturaleza. Mi enfoque amalgama el rigor analítico de las **Ciencias Económicas** con la capacidad disruptiva y escalable de la **Inteligencia Artificial**. Especialista en orquestar sistemas autónomos que transforman costos fijos en crecimiento variable y escalan el EBITDA corporativo.
 
-- 🤖 Desarrollo de sistemas con IA (LLMs, automatización)
-- 📊 Análisis de datos y visualización estratégica
-- ⚙️ Optimización de operaciones (SLA, performance, funnels)
-- 🚀 Construcción de productos tipo SaaS
+> "Los datos no sirven si no accionan decisiones de alto impacto."
 
 ---
 
-## 🛠️ Tech Stack
+## 💎 Elite Digital Hubs
+Accede a mi ecosistema de ingeniería y estrategia:
+- 🌐 **[Portafolio Maestro SOG.ENTERPRISE](https://stiflerglindo.github.io/SOG-ENTERPRISE-PORTFOLIO/)** (Experiencia Interactiva v7.5)
+- 📄 **[CV Interactivo Elite (GitHub Style)](https://stiflerglindo.github.io/SOG-ENTERPRISE-PORTFOLIO/CV_Stiward_Orozco.html)**
+- 🤖 **[EBITDA Orchestrator](https://stiflerglindo.github.io/SOG-ENTERPRISE-PORTFOLIO/)** (Calculador de ROI B2B)
 
-```bash
-📊 Data:
-- Python| SQL | Excel Avanzado | Workspace | Power BI | CRM
+---
 
-🤖 IA:
-- OpenAI API | LLMs | Prompt Engineering | Antigravity | Claude Code
+## 📊 Business Impact Metrics
+- 💰 **+$5.0M USD** Revenue generado en cierres comerciales estratégicos.
+- 🎯 **100% KPI Compliance** en liderazgo de partners críticos (Rappi 2021-2026).
+- ⚙️ **35% Efficiency Gain** mediante la implementación de agentes autónomos de IA.
 
-🌐 Frontend:
-- HTML | CSS | JavaScript  
+---
 
-☁️ Otros: 
-🚀 Proyecto destacado
-🔥 Radar AI Hub
+## 🛠️ Technical Arsenal
 
-Sistema operativo tipo Slack impulsado por IA para equipos comerciales.
+### 📊 DATA
+![Python](https://img.shields.io/badge/Python-SQL-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Power BI](https://img.shields.io/badge/Power_BI-CRM-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) 
+![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-📡 Alertas inteligentes en tiempo real
-⚠️ Detección de riesgo en SLA
-🤖 Recomendaciones automáticas
-🧪 Simulación de eventos
+### 🤖 IA
+![OpenAI](https://img.shields.io/badge/OpenAI-Agents-7000FF?style=for-the-badge&logo=openai&logoColor=white) 
+![Antigravity](https://img.shields.io/badge/Antigravity-Builder-00F2FF?style=for-the-badge&logo=probot&logoColor=black) 
+![Claude](https://img.shields.io/badge/Claude-Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
-"No es un dashboard. Es un sistema que opera por ti."
-🌎 Conecta conmigo
+### 🌐 WEB
+![HTML](https://img.shields.io/badge/HTML-CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-Logic-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-✨ Me encanta colaborar, crear y escalar ideas:
+---
 
-📸 Instagram
-https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTMyNDc2MzMxNDE0MTI2
-💼 LinkedIn
-https://www.linkedin.com/in/stiward-orozco-galindo-39bb95165
-🐦 Twitter / X
-https://twitter.com/StiflerSnif
-📲 Contacto directo
-+57 301 650 1742 
-⚡ Filosofía
-"Los datos no sirven si no accionan decisiones."
+## 🧠 Core Focus
+- **AI Ops**: Construcción de sistemas operativos autónomos para equipos de ventas.
+- **Unit Economics**: Optimización de márgenes y ROAS mediante modelos predictivos.
+- **B2B Scaling**: Estrategias de penetración de mercado para empresas tecnológicas globales.
 
-📈 Actualmente
-🧩 Construyendo sistemas operativos autónomos (AI Ops)
-📊 Ayudando negocios a escalar con datos
-🚀 Evolucionando hacia productos SaaS globales 
-Think in systems
-Build with data
-Execute with speed
-Scale with AI 
+---
+
+## 🌎 Connect with the System
+- 💼 **LinkedIn**: [Stiward Orozco Galindo](https://www.linkedin.com/in/stiward-orozco-galindo-39bb95165)
+- 📲 **Direct Channel**: [WhatsApp Business](https://wa.me/573016501742)
+- 🐦 **X / Twitter**: [@StiflerSnif](https://twitter.com/StiflerSnif)
+
+---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stiflerGlindo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+`Think in systems. Build with data. Execute with speed. Scale with AI.`
+
 - Git | GitHub | APIs | Automatización
