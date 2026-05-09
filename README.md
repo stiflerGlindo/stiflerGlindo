@@ -29,7 +29,7 @@ Estratega por naturaleza. Mi enfoque amalgama el rigor analítico de las **Cienc
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=stiflerGlindo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="400px" />
+        <img src="https://github-readme-stats-pi-six.vercel.app/api?username=stiflerGlindo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="400px" />
       </td>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=stiflerGlindo&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="400px" />
@@ -37,7 +37,7 @@ Estratega por naturaleza. Mi enfoque amalgama el rigor analítico de las **Cienc
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stiflerGlindo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="100%" />
+        <img src="https://github-readme-stats-pi-six.vercel.app/api/top-langs/?username=stiflerGlindo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="100%" />
       </td>
     </tr>
   </table>
