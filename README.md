@@ -44,23 +44,50 @@ A lo largo de mis proyectos he dominado un stack moderno, enfocado tanto en el r
 ---
 
 ## 🚀 Proyecto Destacado: Escudo Barranquilla
-<a href="https://github.com/stiflerGlindo/Escudo-Baq">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=stiflerGlindo&repo=Escudo-Baq&theme=radical&border_color=00ff88&bg_color=050914&title_color=00ff88&text_color=ffffff" alt="Escudo Barranquilla Repo" />
-</a>
 
-**Escudo Barranquilla** es mi proyecto insignia de GovTech y Seguridad Ciudadana. Una plataforma que permite a los comerciantes hacer reportes de extorsión 100% anónimos.
-- **Inteligencia Geoespacial:** Mapas térmicos en vivo y **algoritmos predictivos** de rutas de escape.
-- **Ciberseguridad:** Implementación de cifrado avanzado (AES-256) y autenticación con Túnel E2E.
-- **Diseño Táctico:** Interfaz inmersiva usando "Dark Mode", Glassmorphism, y animaciones avanzadas en tiempo real.
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>🛡️ Escudo Barranquilla</h3>
+      <p><i>Plataforma de Inteligencia Predictiva y GovTech</i></p>
+      <p>Mi proyecto insignia diseñado para proteger a comerciantes mediante denuncias 100% anónimas y análisis táctico en tiempo real.</p>
+      <br/>
+      <a href="https://github.com/stiflerGlindo/Escudo-Baq">
+        <img src="https://img.shields.io/badge/ACCEDER_AL_SISTEMA-00FF88?style=for-the-badge&logo=github&logoColor=black" alt="Acceder a Escudo Baq" />
+      </a>
+    </td>
+    <td width="45%" valign="top">
+      <h4>⚡ Capacidades Tácticas:</h4>
+      <ul>
+        <li>🛰️ <b>Inteligencia Geoespacial:</b> Mapas de calor y rastreo.</li>
+        <li>🔐 <b>Túnel E2E:</b> Cifrado AES-256 de extremo a extremo.</li>
+        <li>🏃‍♂️ <b>Rutas Predictivas:</b> Simulación <i>Marching Ants</i>.</li>
+        <li>📞 <b>Verificador:</b> Base de datos policial en vivo.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 Terminal de Estadísticas de GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stiflerGlindo&show_icons=true&theme=radical&hide_border=true&bg_color=050914&title_color=00ff88&icon_color=00e5ff&text_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stiflerGlindo&layout=compact&theme=radical&hide_border=true&bg_color=050914&title_color=00e5ff&text_color=ffffff" />
-</div>
+```bash
+root@stiflerGlindo:~/github-stats$ ./fetch_metrics.sh --live
+> Estableciendo conexión cifrada con servidores... [OK]
+> Decodificando métricas de rendimiento... [OK]
+
+[==================================================] 100%
+
+[+] REPOSITORIOS DESPLEGADOS  : 10
+[+] ROL PRINCIPAL             : AI Architect & Full Stack
+[+] ENFOQUE COMERCIAL         : B2B Commercial Leader
+[+] STACK PREDOMINANTE        : React, Node.js, JavaScript, Tailwind/CSS
+[+] ARQUITECTURA              : Escalable, Segura (Security-First)
+
+> ESTADO DEL SISTEMA: OPTIMO 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+> Listo para escalar.
+```
 
 <br/>
 
